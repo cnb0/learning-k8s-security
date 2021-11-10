@@ -36,7 +36,7 @@ Deep understanding of securing Docker environments at scale in an enterprise env
  
          - Known vulnerability audits   
          - Logging and Auditing the Docker platform   
-         -             to Kubernetes Security   
+         - Kubernetes Security   
          - Control plane protection   
 
 - Securing the kube-apiserver   
