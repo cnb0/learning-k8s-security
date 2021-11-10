@@ -17,7 +17,7 @@ Deep understanding of securing Docker environments at scale in an enterprise env
         - Docker and Kubernetes security vulnerability management
         - Kubernetes Pod security policies
 
--             to Container security   
+- Introduction to Container security   
          - Kernel namespaces   
          - Privileged vs Unprivileged Containers   
          - Secure computing mode   
