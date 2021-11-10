@@ -4,18 +4,18 @@
 
 Deep understanding of securing Docker environments at scale in an enterprise environment. 
 
-- Docker security fundamentals
-- Kubernetes security best practices
-- Application isolation
-- Multi-tenancy isolation
-- Authentication schemes
-- Container supply chain security issues
-- Control plane protection
-- Encryption in Docker and Kubernetes deployments
-- Secret management
-- Linux security modules related to Docker and Kubernetes
-- Docker and Kubernetes security vulnerability management
-- Kubernetes Pod security policies
+        - Docker security fundamentals
+        - Kubernetes security best practices
+        - Application isolation
+        - Multi-tenancy isolation
+        - Authentication schemes
+        - Container supply chain security issues
+        - Control plane protection
+        - Encryption in Docker and Kubernetes deployments
+        - Secret management
+        - Linux security modules related to Docker and Kubernetes
+        - Docker and Kubernetes security vulnerability management
+        - Kubernetes Pod security policies
 
 - Introduction to Container security   
          - Kernel namespaces   
