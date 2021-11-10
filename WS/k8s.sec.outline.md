@@ -18,12 +18,14 @@ Deep understanding of securing Docker environments at scale in an enterprise env
         - Kubernetes Pod security policies
 
 - Introduction to Container security   
+- 
          - Kernel namespaces   
          - Privileged vs Unprivileged Containers   
          - Secure computing mode   
          - Linux security modules   
 
 - Issues related to the container supply chain   
+- 
          - Default and custom network encryption   
          - Application isolation   
          - Authentication   
@@ -31,12 +33,14 @@ Deep understanding of securing Docker environments at scale in an enterprise env
            discretionary access model   
 
 - Multitenancy isolation   
+- 
          - Known vulnerability audits   
          - Logging and Auditing the Docker platform   
          -             to Kubernetes Security   
          - Control plane protection   
 
 - Securing the kube-apiserver   
+- 
         - Controller manager and scheduler security   
         - RBAC and Service Accounts   
         - Pod Security Policies   
